@@ -1,6 +1,6 @@
 👨‍💻 Kitae Jin 👨‍💻
 ---
-- Interested in computer vision and backend.
+- Interested in backend.
 - I want to do various projects with various people
 - Email: jinkitea@naver.com
 
