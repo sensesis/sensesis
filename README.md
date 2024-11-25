@@ -3,6 +3,7 @@
 - Interested in backend.
 - I want to do various projects with various people
 - Email: jinkitea@naver.com
+- Blog: https://kittae.tistory.com/
 
 📋 Career
 ---
