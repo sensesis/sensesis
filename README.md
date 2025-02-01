@@ -14,7 +14,7 @@
 ---
 - [실리콘벨리 테커SW부트캠프] Tehcer Summer-Bootcamp-2024 - SML (2024.06 ~ 2024.08)
 - [한성SW중심대학 페스티벌 캡스톤 전시회] PPURISAM (우수상) (2024.09 ~ 2024.11)
-- [실리콘벨리 테커SW부트캠프] Tehcer Winter-Bootcamp-2024 - DevSketch 🏆1위🏆 (2024.12 ~ 2024.02)
+- [실리콘벨리 테커SW부트캠프] 🏆Tehcer Winter-Bootcamp-2024 1위🏆 - DevSketch (2024.12 ~ 2024.02)
 
 🛠️ Tech Stack
 ---
