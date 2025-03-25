@@ -12,9 +12,9 @@
 
 💻 Projects(Record)
 ---
-- [실리콘벨리 테커SW부트캠프] 2024 Techeer Summer BootCamp - SML (2024.06 ~ 2024.08)
+- [티타임즈 X 실리콘벨리 테커SW부트캠프] 2024 Techeer Summer BootCamp - SML (2024.06 ~ 2024.08)
 - [한성SW중심대학 페스티벌 캡스톤 전시회] PPURISAM (우수상) (2024.09 ~ 2024.11)
-- [실리콘벨리 테커SW부트캠프] 🏆 2024 Techeer Winter BootCamp 1등 🏆 - DevSketch (2024.12 ~ 2024.02)
+- [티타임즈 X 실리콘벨리 테커SW부트캠프] 🏆 2024 Techeer Winter BootCamp 1등 🏆 - DevSketch (2024.12 ~ 2024.02)
 
 🛠️ Tech Stack
 ---
