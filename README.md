@@ -2,19 +2,20 @@
 ---
 - Interested in backend.
 - I want to do various projects with various people
-- Email: jinkitea@naver.com
+- Email: kitae418@gmail.com
 - Blog: https://kittae.tistory.com
 
 📋 Career
 ---
-- Kwangwoon Artificial Intelligence High School (2016 ~ 2018)
-- Department of Computer Engineering, Hansung University (2020.03 ~)
+- 광운전자공업고등학교 모바일소프트웨어학과 (2016 ~ 2018)
+- 한성대학교 컴퓨터공학부 (2020.03 ~ 2026.02)
 
 💻 Projects(Record)
 ---
 - [티타임즈 X 실리콘벨리 테커SW부트캠프] 2024 Techeer Summer BootCamp - SML (2024.06 ~ 2024.08)
 - [한성SW중심대학 페스티벌 캡스톤 전시회] PPURISAM (우수상) (2024.09 ~ 2024.11)
-- [티타임즈 X 실리콘벨리 테커SW부트캠프] 🏆 2024 Techeer Winter BootCamp 1등 🏆 - DevSketch (2024.12 ~ 2024.02)
+- [티타임즈 X 실리콘벨리 테커SW부트캠프] 🏆 2024 Techeer Winter BootCamp 1등 🏆 - DevSketch (2024.12 ~ 2025.02)
+- [한성SW 캡스톤 전시회] Adcanvas (장려상) (2025.03 ~ 2025.06)
 
 🛠️ Tech Stack
 ---
