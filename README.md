@@ -1,7 +1,7 @@
 👨‍💻 Kitae Jin 👨‍💻
 ---
-- Interested in backend.
-- I want to do various projects with various people
+- 사람들에게 도움을 주고싶은 백엔드 개발자입니다.
+- Phone: 010-5570-9143
 - Email: kitae418@gmail.com
 - Blog: https://kittae.tistory.com
 
